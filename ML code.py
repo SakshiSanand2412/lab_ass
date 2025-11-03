@@ -14,6 +14,7 @@ model.fit(X, y)
 
 print("Model trained successfully!")
 print("Prediction for 4:", model.predict([[6]]))
+print("Prediction for 6:", model.predict([[6]]))
 
 
 # In[ ]:
